@@ -1,0 +1,18 @@
+1: Mutable & Immutable in JavaScript?
+
+   Ans: A mutable object is an object whose state can be modified after it is created. ex: Strings and Numbers are Immutable
+        Immutables are the objects whose state cannot be changed once the object is created. ex Array
+        
+2. How to remove an element from begining in an array.
+
+   Ans: push( value ) — Adds a new item to the end of array.
+        pop() — Removes the last value from the array and returns it.
+        unshift( value ) — Inserts a new item at the beginning of the array.
+        shift() — Removes the first value from the array and returns it.
+        splice() — Removes and returns a given number of elements starting from a given index
+ 3.what are the semantic element in HTML5.
+    Ans: HTML5 offers new semantic elements to define different parts of a web page:  
+        <article>,<aside>,<details>,<figcaption>,<figure>,<footer>,<header>,<main>,<mark>,<nav>,<section>,<summary>,<time>
+
+4.Data types in Javascript.
+  Ans. Number,String,Boolean,Null,Undefined
